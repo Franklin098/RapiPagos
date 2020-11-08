@@ -1,0 +1,4 @@
+#Sat Nov 07 23:40:51 CST 2020
+base.0=/Users/franklinvelasquezfuentes/Documents/Tareas/Analisis 2/RapiPagosV2/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
